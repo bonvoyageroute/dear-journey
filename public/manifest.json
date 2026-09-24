@@ -1,0 +1,16 @@
+{
+  "name": "Dear Journey",
+  "short_name": "Dear Journey",
+  "description": "A little book for every journey.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F5F2E8",
+  "theme_color": "#F5F2E8",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
